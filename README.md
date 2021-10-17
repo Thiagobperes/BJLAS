@@ -1,4 +1,4 @@
-# BJLAS
+# Artigo BJLAS
 Repositório do artigo para a revista BJLAS (testando)
 
 O presente repositório fornece os dados (tabelas e gráficos) do artigo da BJLAS
